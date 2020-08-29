@@ -1666,6 +1666,8 @@
 
 	a {
 		text-decoration: underline;
+		color: white;
+		text-decoration-color: white;
 	}
 
 		a:hover {
@@ -1785,7 +1787,7 @@
 	}
 
 	a {
-		color: #17083a;
+		color: #ffffff;
 	}
 
 	strong, b {
